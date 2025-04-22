@@ -1,37 +1,71 @@
-# CL4R1T4S
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
-SYSTEM PROMPT TRANSPARENCY FOR ALL! Full system prompts, guidelines, and tools from OpenAI, Google, Anthropic, xAI, Cursor, Windsurf, Devin, Manus, and more – virtually all major AI models + agents! 
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
 
-📌 Why This Exists
+📜 Over **6,500+ lines** of insights into their structure and functionality.  
 
-    "In order to trust the output, one must understand the input."
+## 📂 **Available Files**
+- **v0 Folder**  
+- **Manus Folder**
+- **Lovable Folder**
+- **Devin Folder**
+- **Same.dev Folder**
+- **Replit Folder**
+- **Windsurf Agent folder**
+- **VSCode (Copilot) Agent folder**
+- **Cursor Folder**
+- **Open Source prompts folder**
+  - Codex CLI
+  - Cline
+  - RooCode
 
-AI labs shape how models behave using massive, unseen prompt scaffolds. Because AI is a trusted external intelligence layer for a growing number of humans, these hidden instructions also affect the perceptions and behavior of the public.
+---
 
-These prompts define:
+## 🛡️ **Security Notice for AI Startups**
 
-    What AIs can’t say
+⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
 
-    What personas and functions they’re forced to follow
+🔐 **Interested in securing your AI systems?**  
+Check out **ZeroLeaks**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
-    How they’re told to lie, refuse, or redirect
+🔗 **Contact Us here:** 
 
-    And what ethical/political frames are baked in by default
+- X: NotLucknite
+---
 
-    If you're using an AI without knowing its system prompt,
-    you’re not talking to intelligence — you’re talking to a shadow-puppet.
+## 🛠 **Roadmap & Feedback**
 
-CL4R1T4S is here to fix that.
+🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
+Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🛠 Contribute
+🆕 **LATEST UPDATE:** 21/04/2025 
 
-Leak, extract, or reverse-engineer something? Good.
-Send a pull request with:
+## 📊 **Star History**
 
-    ✅ Model name/version
+<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+ </picture>
+</a>
 
-    🗓 Date of extraction (if known)
+## ❤️ Support the Project
 
-    🧾 Context / notes (optional but helpful)
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
 
-Or hit up @elder_plinius
+You can show your support via:
+
+*   **PayPal:** `lucknitelol@proton.me`
+*   **Cryptocurrency:**
+    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
+    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
+
+Thank you for your support! 🙏
+
+
+## 🔗 **Connect With Me**  
+✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
+💬 **Discord:** `x1xh`  
+
+⭐ **Drop a star if you find this useful!**
